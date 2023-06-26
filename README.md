@@ -1,10 +1,6 @@
-# Test
+# README
 
-Important imfo is not here
+Under development
 
 ## subheader
-Watch tutorial
-
-## Local Development
-
-1. Open index.html in your browser.
+Info
