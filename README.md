@@ -1,15 +1,7 @@
 
 <a name="readme-top"></a>
-[![Followers][followers-shield]][followers-url]
-[![Stargazers][stars-shield]][stars-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Youtube][youtube-shield]][youtube-url]
-<!----Pending---->
-<!-- Instagram -->
-<!-- Telegram -->
-<!-- Whatsapp -->
-<!-- E-Mail -->
-
+<!-- [![Followers][followers-shield]][followers-url]
+[![Stargazers][stars-shield]][stars-url] -->
 
 <!-- PROJECT LOGO -->
 <br />
@@ -18,29 +10,24 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Bluesit</h3>
+<h3 align="center">Kevin Giesbrecht</h3>
 
   <p align="center">
     Full-Stack Web Developer
     <br />
-    <a href="https://github.com/bluesit"><strong>Website »</strong></a>
-    <br />
+    <!-- <a href="https://github.com/bluesit"><strong>Website »</strong></a>
+    <br /> -->
 </div>
 
 
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>TABLE OF CONTENTS</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">ABOUT ME</a>
-      <ul>
-        <li><a href="#built-with">MI SKILL SET</a></li>
-      </ul>
-    </li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#about-me">ABOUT ME</a></li>
+    <li><a href="#my-skill-set">MY SKILL SET</a></li>
+    <li><a href="#contact">CONTACT</a></li>
   </ol>
 </details>
 
@@ -49,70 +36,104 @@
 <!-- ABOUT THE PROJECT -->
 ## ABOUT ME
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `bluesit`, `bluesit`, `twitter_handle`, `linkedin_username`, `gmail`, `kevingie01`, `Bluesit`, `project_description`
+Hi, My name is Kevin Giesbrecht. I am a full-stack web developer and I have a passion for creating web applications that are user-friendly, responsive, and functional. I am always eager to learn new things and improve my skills. You can check out my github profile (Bluesit) to see some of my work and contact me if you want to collaborate or chat.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
-### Built With
+## MY SKILL SET
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+[![JavaScript][Javascript]][Javascript-url]
+
+[![Vue][Vue.js]][Vue-url]
+
+[![HTML][html]][html-url]
+
+[![css][css]][css-url]
+
+[![scss][scss]][scss-url]
+
+[![Bootstrap][Bootstrap.com]][Bootstrap-url]
+
+<!-- [![java][java]][java-url] -->
+
+[![spring boot][spring boot]][spring boot-url]
+
+[![golang][golang]][golang-url]
+
+[![nodejs][nodejs]][nodejs-url]
+
+[![postgresql][postgresql]][postgresql-url]
+
+[![mysql][mysql]][mysql-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
 
-Kevin Giesbrecht - [@twitter_handle](https://twitter.com/twitter_handle) - kevingie01@gmail.com
+[![Mail][mail-shield]][mail-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Youtube][youtube-shield]][youtube-url]
+[![Twitter][twitter-shield]][twitter-url]
 
-Project Link: [https://github.com/bluesit/bluesit](https://github.com/bluesit/bluesit)
+Kevin Giesbrecht - kevingie01@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+<!-- ## Acknowledgments
 
 * []()
 * []()
 * []()
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- links -->
-[youtube-shield]:https://img.shields.io/badge/-YouTube-Youtube?logo=youtube&style=for-the-badge&logoColor=white&labelColor=red&colorB=555
-[youtube-url]: https://www.youtube.com/@bluesit
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&labelColor=blue&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/kevin-giesbrecht-448b09252/
+
 [stars-shield]: https://img.shields.io/github/stars/bluesit?style=for-the-badge&logo=github&color=%23ffee00
 [stars-url]: https://github.com/bluesit/bluesit/stargazers
 [followers-shield]: https://img.shields.io/github/followers/bluesit?style=for-the-badge&logo=github&color=green
 [followers-url]: https://github.com/bluesit
 
-<!-- skills -->
 [product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+
+<!-- skills -->
+[Vue.js]: https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vuedotjs&labelColor=3c444d
 [Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[JavaScript]:https://img.shields.io/badge/javascript-f0db4f?style=for-the-badge&logo=javascript&labelColor=323330
+[Javascript-url]:https://developer.mozilla.org/en-US/docs/Web/javascript
+[html]:https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&labelColor=ebebeb
+[postgresql]:https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&labelColor=ebebeb
+[postgresql-url]:https://www.postgresql.org/
+[mysql]:https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&labelColor=ebebeb
+[mysql-url]:https://www.mysql.com/
+[java]:https://img.shields.io/badge/java-blue?style=for-the-badge&logo=java&labelColor=ebebeb
+[java-url]:https://www.java.com/
+[spring boot]:https://img.shields.io/badge/Spring_Boot-6db33f?style=for-the-badge&logo=spring-boot&labelColor=white
+[spring boot-url]:https://spring.io/projects/spring-boot
+[golang]:https://img.shields.io/badge/Golang-2dbbb1?style=for-the-badge&logo=go&labelColor=ebebeb
+[golang-url]:https://golang.org/
+[nodejs]:https://img.shields.io/badge/Node.js-679e5f?style=for-the-badge&logo=node.js&labelColor=ebebeb
+[nodejs-url]:https://nodejs.org/es/
+[css]:https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=blue&labelColor=ebebeb
+[css-url]:https://developer.mozilla.org/es/docs/Web/CSS
+[scss]:https://img.shields.io/badge/Sass-cc6699?style=for-the-badge&logo=sass&labelColor=ebebeb
+[scss-url]:https://sass-lang.com/
+[html-url]:https://developer.mozilla.org/es/docs/Web/HTML
+[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-7c08f0?style=for-the-badge&logo=bootstrap&labelColor=ebebeb
 [Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+
+<!--Social Media-->
+[twitter-shield]: https://img.shields.io/badge/xbluesit-black?style=for-the-badge&logo=x
+[twitter-url]: https://twitter.com/XBluesit
+[mail-shield]: https://img.shields.io/badge/kevingie01%40gmail.com-black?style=for-the-badge&logo=gmail&logoColor=white
+[mail-url]: mailto:kevingie01@gmail.com
+[youtube-shield]:https://img.shields.io/badge/-YouTube-black?logo=youtube&style=for-the-badge&logoColor=white
+[youtube-url]: https://www.youtube.com/@bluesit
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin
+[linkedin-url]: https://www.linkedin.com/in/kevin-giesbrecht-448b09252/
