@@ -1,5 +1,7 @@
 
 <a name="readme-top"></a>
+<img src="images/banner.png" alt="banner" width="100%">
+
 <!-- [![Followers][followers-shield]][followers-url]
 [![Stargazers][stars-shield]][stars-url] -->
 
@@ -77,8 +79,6 @@ Hi, My name is Kevin Giesbrecht. I am a full-stack web developer and I have a pa
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Youtube][youtube-shield]][youtube-url]
 [![Twitter][twitter-shield]][twitter-url]
-
-Kevin Giesbrecht - kevingie01@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
