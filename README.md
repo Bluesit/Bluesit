@@ -38,7 +38,7 @@
 <!-- ABOUT THE PROJECT -->
 ## ABOUT ME
 
-Hi, My name is Kevin Giesbrecht. I am a full-stack web developer and I have a passion for creating web applications that are user-friendly, responsive, and functional. I am always eager to learn new things and improve my skills. You can check out my github profile (Bluesit) to see some of my work and contact me if you want to collaborate or chat.
+Hi, My name is Kevin. I am a full-stack web developer and I have a passion for creating web applications that are user-friendly, functional and efficient. I allways find ways to learn new things and improve my skills. You can check out my github profile (Bluesit) to see some of my work or contact me.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
